@@ -14,4 +14,4 @@ Projeto construido do Next Levek Week da RocketSeat
 
 ## 💖💖💖 Contato 💖💖💖
 
-depois eu coloco / to em experiencia
+danemarqs@gmail.com / to em experiencia
