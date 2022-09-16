@@ -1,5 +1,17 @@
 NLW eSports - Trilha Explorer
 
+![preview](./.github/previewsave.png)
+
 Projeto construido do Next Levek Week da RocketSeat
 
-Tecnologias 
+[🔗 Clique aqui para acessar](https://github.com/DanielNSCT/NLW)
+
+## ⚒💻⚒💻 Tecnologias ⚒💻⚒💻
+
+- HTML
+- CSS
+- Git e Github
+
+## 💖💖💖 Contato 💖💖💖
+
+depois eu coloco / to em experiencia
